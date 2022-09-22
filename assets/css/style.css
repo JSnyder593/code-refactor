@@ -87,19 +87,11 @@ p {
     text-align: center;
 }
 
-.benefit-lead {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost, {
     margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+    background-color: #ffffff;
 }
 
 .benefit-lead h3 {
